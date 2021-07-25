@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ennemy
+  - bas
+  - Platform
+  - Ground
+  - Skittle
+  - MP
+  - kitKat
+  - block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ennemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background*infi
+    uniqueID: 332393649
+    locked: 0
+  - name: lastone
+    uniqueID: 597256781
+    locked: 0
+  - name: BackGround
+    uniqueID: 2399364349
+    locked: 0
+  - name: background2
+    uniqueID: 1230334331
+    locked: 0
+  - name: door
+    uniqueID: 429442105
+    locked: 0
+  - name: player
+    uniqueID: 4290215365
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ennemy
+    uniqueID: 1594989343
+    locked: 0
+  - name: bullet
+    uniqueID: 1482209005
+    locked: 0
+  - name: otherGround
+    uniqueID: 1831135737
+    locked: 0
+  - name: ground
+    uniqueID: 3411814833
+    locked: 0
+  - name: effects
+    uniqueID: 912166943
+    locked: 0
